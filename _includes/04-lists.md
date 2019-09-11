@@ -1,4 +1,9 @@
-# My Favourite things
+# My Favourite Foods
 * Pears :pear:
-* item 2
-  * item 3
+* Sushi :sushi:
+* Corn :corn:
+
+# My Hobbies
+* Drawing :pencil2:
+* Gaming :video_game:
+* Listening to music :headphones:
